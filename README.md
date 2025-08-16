@@ -11,7 +11,8 @@ I am going to use the `clean_survey_data.csv` file I exported at the end of the 
 * Connect to a sqlite3
 * Load the dataset into the database as a table
 * Find outliers in the compensation columns
-* Remove outliers for better visualizations 
+* Remove outliers for better visualizations
+* Store results in different tables in the database
 
 ## Tools Used
 
