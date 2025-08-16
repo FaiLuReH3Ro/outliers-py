@@ -4,7 +4,7 @@
 
 ## Dataset Used
 
-I am going to use the `clean_survey_data.csv` file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/DataWrangling-Py) process.
+I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Outliers-Py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/DataWrangling-Py) process.
 
 ## Objectives
 
