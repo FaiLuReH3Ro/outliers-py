@@ -1,2 +1,25 @@
-# FindingOutliers-Py
-Finding outliers using Python. This repository is part of the IBM Data Analyst Capstone focused on Python.
+# Handling Outliers - Python
+
+<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DA-Capstone-Py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
+
+## Dataset Used
+
+I am going to use the `clean_survey_data.csv` file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/DataWrangling-Py) process.
+
+## Objectives
+
+* Connect to a sqlite3
+* Load the dataset into the database as a table
+* Find outliers in the compensation columns
+* Remove outliers for better visualizations 
+
+## Tools Used
+
+* Jupyter notebook
+* Python
+* SQL
+* SQLite3
+* Pandas
+* Matplotlib
+* Seaborn
+
