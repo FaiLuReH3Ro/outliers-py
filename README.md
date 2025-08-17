@@ -24,6 +24,12 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Outlie
 * Matplotlib
 * Seaborn
 
+## Visualizations Used
+
+* Histogram
+* Bar Chart
+* Box Plot
+
 ## Jupyter Notebook
 
 Click on the link below to view or download the notebook.
