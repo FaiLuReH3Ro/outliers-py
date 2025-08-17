@@ -24,3 +24,8 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Outlie
 * Matplotlib
 * Seaborn
 
+## Jupyter Notebook
+
+Click on the link below to view or download the notebook.
+
+[Handling Outliers - Python](https://github.com/FaiLuReH3Ro/Outliers-Py/blob/main/Handling_Outliers.ipynb)
