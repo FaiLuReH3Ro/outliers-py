@@ -1,10 +1,10 @@
 # Handling Outliers - Python
 
-<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DataAnalyst-Capstone'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/IBM-DA-Capstone-Py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
+<p>This is part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py'>IBM Data Analyst Capstone - Python</a> project and part of the <a href = 'https://github.com/FaiLuReH3Ro/ibm-da-capstone-py?tab=readme-ov-file#exploratory-data'>Exploritory Data Analysis</a> section.</p>
 
 ## Dataset Used
 
-I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Outliers-Py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/DataWrangling-Py) process.
+I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/outliers-py/blob/main/clean_survey_data.csv) file I exported at the end of the [data wrangling](https://github.com/FaiLuReH3Ro/data-wrangling-py) process.
 
 ## Objectives
 
@@ -34,4 +34,4 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/Outlie
 
 Click on the link below to view or download the notebook.
 
-[Handling Outliers - Python](https://github.com/FaiLuReH3Ro/Outliers-Py/blob/main/Handling_Outliers.ipynb)
+[Handling Outliers - Python](https://github.com/FaiLuReH3Ro/outliers-py/blob/main/Handling_Outliers.ipynb)
