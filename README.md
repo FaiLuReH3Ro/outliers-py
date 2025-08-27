@@ -14,7 +14,7 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/outlie
 
 ## 🚀 Objectives
 
-* Connect to a sqlite3 database
+* Connect to a SQLite database
 * Load the dataset into the database as a table
 * Find outliers in the compensation columns
 * Remove outliers for better visualizations
@@ -25,7 +25,7 @@ I am going to use the [`clean survey CSV`](https://github.com/FaiLuReH3Ro/outlie
 * Jupyter notebook
 * Python
 * SQL
-* SQLite3
+* SQLite
 * Pandas
 * Matplotlib
 * Seaborn
