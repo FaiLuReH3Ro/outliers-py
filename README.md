@@ -4,10 +4,14 @@
 
 ## 📓 Jupyter Notebook
 
-> Notebook on Kaggle
+> [!NOTE]
+> Click on the link below to view the notebook on Kaggle.
 
 👉 [Kaggle Notebook](https://www.kaggle.com/code/failureh3ro/handling-outliers-python/notebook)
 
+<br>
+
+> [!NOTE]
 > Click on the link below to view or download the notebook on GitHub
 
 👉 [GitHub Notebook](https://github.com/FaiLuReH3Ro/outliers-py/blob/main/Handling_Outliers.ipynb)
